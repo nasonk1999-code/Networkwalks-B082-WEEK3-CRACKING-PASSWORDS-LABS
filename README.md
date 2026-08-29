@@ -95,7 +95,7 @@ A comprehensive video walkthrough of this lab is available on LinkedIn:
 
 🙏 Acknowledgements
 
-Special thanks to Networkwalks Academy and my instructor Waqas Karim (CCIE) for their guidance and mentorship throughout this lab.
+Special thanks to #Networkwalks Academy and my instructor #Waqas Karim (CCIE) for their guidance and mentorship throughout this lab.
 
 ---
 
