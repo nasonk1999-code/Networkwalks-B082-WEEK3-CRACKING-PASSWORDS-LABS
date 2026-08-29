@@ -34,19 +34,29 @@ Files Used
 
 4.	Download the PDF to be cracked
 <img width="821" height="205" alt="Screenshot 2026-08-29 224054" src="https://github.com/user-attachments/assets/4dd320bd-6a76-4a20-8e86-2a61cb5cc1d1" />
-5. Save the copied words on a notepad
+
+
+5.	Save has value, upload file and start new attack
+   <img width="1920" height="1080" alt="number 1" src="https://github.com/user-attachments/assets/bbbc2182-b0d2-4a8d-a63b-cf124b31b264" />
    
-![Uploading number 1.png…]()
 
-6.	Save has value, upload file and start new attack
-   
-![Uploading p1 (2).png…]()
+6. Save the copied words on a notepad
+<img width="1655" height="908" alt="p1 (2)" src="https://github.com/user-attachments/assets/1d992b86-8c82-461a-8f48-82776799a7bc" />
 
 
-7.	Test the cracked password
+7. Use the copied word from notepad and run the saved value upload it on john the ripper
+   <img width="997" height="750" alt="p1 1" src="https://github.com/user-attachments/assets/52479169-3b09-47ae-b8b0-20ee21c0018a" />
+
+
+9.	Test the cracked password
 
  <img width="1920" height="1080" alt="p2 cracked" src="https://github.com/user-attachments/assets/1c449e7e-43ed-44e3-9758-d50dbf8f2eac" />
 
+
+
+
+
+THE OTHER TOOL I TESTED THE STEPS ARE AS FOLLOWS 
 
 Password Cracking with Networkwalks Tools
 📋 General Steps Taken
