@@ -1,60 +1,73 @@
-<img width="1920" height="1080" alt="n1" src="https://github.com/user-attachments/assets/c66b1247-f493-450d-9ea4-c1bf2111f8d2" /># Networkwalks-B082-WEEK3-CRACKING-PASSWORDS-LABS
+<img width="1920" height="1080" alt="Screenshot 2026-08-27 220913" src="https://github.com/user-attachments/assets/1613248e-4d76-49c7-bbc4-34d767d1aeab" />WEEK 3-PASSWORD CRACKING
 Cracked three password-locked PDFs using John the Ripper and Networkwalks' browser-based cracking tool, then pushed further—AI-assisted automation and a patient portal breach. Weak passwords fell in seconds. Week 3 proved credentials remain the weakest link. 🔓💻
-Week 3 — Password Cracking
 
-Networkwalks Academy — Cybersecurity & Ethical Hacking Internship
-
+networkwalks-B082-week1-Week-3-Password-Cracking
+Tech Stack • Networking • Credits
+🛠️ Tech Stack
+  
+🌐 Networking
+  
+🤝 Credits
+  
+📌 Overview
+Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR JOHN and JTR JOHNNY tools on my Windows PC.
+🖥️ Lab Environment
+Component	Configuration
+Host OS	Windows
+Attack Machine	Windows 11
+Project	Week 3 – Module 1 & 2
+Focus	Password Cracking
+Primary Tool	John the Ripper (JTR) & Network Walks Tools
+GUI Tool	Johnny
+Program	Network Walks
+Files Used
+•	John The Ripper : https://www.openwall.com/john/
+•	Johnny [GUI] : https://openwall.info/wiki/john/johnny
+•	Network Walks Hash Calculator : https://networkwalks.com/hash-calculator/
+•	Network Walks Password Cracker : https://networkwalks.com/password-cracker
 📋 General Steps Taken
 1.	Download John & Johnny
+<img width="186" height="173" alt="Screenshot 2026-08-29 224709" src="https://github.com/user-attachments/assets/23fd4910-e04c-4716-955f-ff25ae049ed1" />
+
 2.	Add john.exe file to the Johnny GUI
-3.	Download the PDF to be cracked
-4.	Save has value, upload file and start new attack
-5.	Test the cracked password
-Step 1 - Download John & Johnny
-   <img width="186" height="173" alt="Screenshot 2026-08-29 224709" src="https://github.com/user-attachments/assets/853e12db-9967-47d7-b8f3-ddbff00532e4" />
+3.	<img width="873" height="663" alt="Screenshot 2026-08-29 225048" src="https://github.com/user-attachments/assets/37f3a273-4fe0-4bae-82af-a312eeb5a1fc" />
 
-Step 2 - Add john.exe file to the Johnny GUI
- 
-<img width="873" height="663" alt="Screenshot 2026-08-29 225048" src="https://github.com/user-attachments/assets/eb06fd21-5109-47ee-92e0-881dba05e61e" />
+4.	Download the PDF to be cracked
+<img width="821" height="205" alt="Screenshot 2026-08-29 224054" src="https://github.com/user-attachments/assets/4dd320bd-6a76-4a20-8e86-2a61cb5cc1d1" />
+5. Save the copied words on a notepad
+<img width="1655" height="908" alt="p1 (2)" src="https://github.com/user-attachments/assets/bbd4a5f3-2f69-42f6-a5bc-a3259454d85c" />
 
-Step 3 - Download the PDF to be cracked
- <img width="821" height="205" alt="Screenshot 2026-08-29 224054" src="https://github.com/user-attachments/assets/d20cc961-7226-49f5-b0c5-33941ef24765" />
-
-Step 4 - Save has value, upload file and start new attack
- 
+6.	Save has value, upload file and start new attack
+   <img width="1920" height="1080" alt="number 1" src="https://github.com/user-attachments/assets/16929a0e-6059-45fa-94b2-db69009d71f0" />
 
 
-<img width="1920" height="1080" alt="number 1" src="https://github.com/user-attachments/assets/929f77fa-754c-4c26-b103-bac6709ef971" />
+7.	Test the cracked password
+
+ <img width="1920" height="1080" alt="p2 cracked" src="https://github.com/user-attachments/assets/1c449e7e-43ed-44e3-9758-d50dbf8f2eac" />
 
 
-
-
-
-Step 5 - Test the cracked password
- <img width="1920" height="1080" alt="p3 3" src="https://github.com/user-attachments/assets/ac472af7-9083-43d5-8262-363a502b8bb8" />
-
-
+7. Try to open the PDF file
+<img width="1920" height="1080" alt="p2 cracked" src="https://github.com/user-attachments/assets/c4dae328-e376-4507-84cf-1855a81fda9f" />
 
 
 
 Password Cracking with Networkwalks Tools
 📋 General Steps Taken
 1.	Uplaod locked PDF file to Networkwalks Hash Calculator
+ <img width="1920" height="1080" alt="n1" src="https://github.com/user-attachments/assets/58c8b57b-14c3-4fa4-9414-aab86e60b685" />
 
- 
-3.	Copy the PDF hash value into Networkwalks Password Cracker
- 
-4.	Open the locked PDF file and enter the cracked password
-5.	 
-Step 1 - Uplaod locked PDF file to Networkwalks Hash Calculator
-Step 2 - Copy the PDF hash value into Networkwalks Password Cracker
-Access Denied
+2.	Copy the PDF hash value into Networkwalks Password Cracker
+   
+<img width="1920" height="1080" alt="n3" src="https://github.com/user-attachments/assets/58acaa20-9da6-465e-9380-500619bab6b4" />
 
+3.	Open the locked PDF file and enter the cracked password
+	 <img width="1920" height="1080" alt="Screenshot 2026-08-27 220913" src="https://github.com/user-attachments/assets/8e4a7184-30e2-4521-8758-040d166bc186" />
 
 
 Access Granted
 
-Step 3 - Open the locked PDF file and enter the cracked password
+
+<img width="1920" height="1080" alt="n2" src="https://github.com/user-attachments/assets/db5501b1-0602-4eef-8118-896e46048d1e" />
 
 
 
@@ -72,44 +85,3 @@ Resources
 Readme
 Activity
 
-
-Status: Completed
-Internship: Cybersecurity & Ethical Hacking
-Tool Category: Password Recovery & Cryptanalysis
-Modules: 4
-License: Educational Use
-
----
-
-📖 Overview
-
-This repository documents my Week 3 project deliverables, which focused on recovering passwords from three encrypted PDF files (My Locked PDF1/2/3.pdf) using two mandatory approaches. Additionally, I completed two optional exercises that extended these techniques into real-world attack scenarios.
-
-Module Task Tools
-Core John the Ripper John + Johnny GUI
-Core Networkwalks Tools Hash Calculator + Password Cracker (browser-based)
-Optional 1 AI-Assisted Cracking Claude Desktop + HexStrike MCP + JTR
-Optional 2 Mediroza Patient Portal Exploit Burp Suite Intruder + Networkwalks Tools
-
-Note: Both core modules were required with no alternatives. I completed both optional exercises as well.
-
----
-
-🧠 Background
-
-Password cracking involves recovering a password from stored data or protected files. When a file (PDF, ZIP, Office document) is password-locked, the password isn't stored directly—instead, a cryptographic hash (a scrambled representation) is stored. Recovery follows a two-step process:
-
-1. Extract the hash from the locked file using tools like pdf2john or hash extractors
-2. Crack the hash by attempting candidate passwords (dictionary or wordlist attacks) until a match is found
-
-This approach works because many users choose weak, predictable passwords.
-
-Attribute Details
-Organization Networkwalks Academy
-Program Cybersecurity & Ethical Hacking Internship
-Week 03
-Project Type Password Cracking & Pentesting Lab
-
----
-
-This repository is for educational purposes only. All activities were performed in controlled lab environments with proper authorization.
