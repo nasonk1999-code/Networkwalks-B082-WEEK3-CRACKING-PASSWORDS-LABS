@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-08-27 220913" src="https://github.com/user-attachments/assets/1613248e-4d76-49c7-bbc4-34d767d1aeab" />WEEK 3-PASSWORD CRACKING
+WEEK 3-PASSWORD CRACKING
 Cracked three password-locked PDFs using John the Ripper and Networkwalks' browser-based cracking tool, then pushed further—AI-assisted automation and a patient portal breach. Weak passwords fell in seconds. Week 3 proved credentials remain the weakest link. 🔓💻
 
 networkwalks-B082-week1-Week-3-Password-Cracking
@@ -35,20 +35,17 @@ Files Used
 4.	Download the PDF to be cracked
 <img width="821" height="205" alt="Screenshot 2026-08-29 224054" src="https://github.com/user-attachments/assets/4dd320bd-6a76-4a20-8e86-2a61cb5cc1d1" />
 5. Save the copied words on a notepad
-<img width="1655" height="908" alt="p1 (2)" src="https://github.com/user-attachments/assets/bbd4a5f3-2f69-42f6-a5bc-a3259454d85c" />
+   
+![Uploading number 1.png…]()
 
 6.	Save has value, upload file and start new attack
-   <img width="1920" height="1080" alt="number 1" src="https://github.com/user-attachments/assets/16929a0e-6059-45fa-94b2-db69009d71f0" />
+   
+![Uploading p1 (2).png…]()
 
 
 7.	Test the cracked password
 
  <img width="1920" height="1080" alt="p2 cracked" src="https://github.com/user-attachments/assets/1c449e7e-43ed-44e3-9758-d50dbf8f2eac" />
-
-
-7. Try to open the PDF file
-<img width="1920" height="1080" alt="p2 cracked" src="https://github.com/user-attachments/assets/c4dae328-e376-4507-84cf-1855a81fda9f" />
-
 
 
 Password Cracking with Networkwalks Tools
